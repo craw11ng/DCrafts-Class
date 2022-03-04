@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(0, 30, 128);
+  }
+  
+  h1 {
+    font-size: 40px;
+  }
+    li {
+        background-color: darkorange;
+    }
+    li {
+        font-size: 18px;
+    }

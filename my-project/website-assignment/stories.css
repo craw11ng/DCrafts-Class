@@ -1,0 +1,22 @@
+#demo {
+     padding: 50px 20px; 
+    }
+body 
+{
+    background-color: rgb(0, 0, 0);
+  }
+  
+  h1 {
+    font-size: 40px;
+    color:#FFFFFF;
+  }
+    p {
+        font-size: 18px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color:#FFFFFF;
+    }
+    #demotext {
+        color: #FFF;
+        background-color: #333;
+        text-shadow: #FFF 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px, red 0 -18px 40px;
+        }
